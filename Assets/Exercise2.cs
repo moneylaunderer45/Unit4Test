@@ -16,10 +16,11 @@ public class Exercise2 : MonoBehaviour
      * indicated by the user.  Instantiate them at the rainSpawn
      * location.
      *********************************/
-
+   
  
     void Update()
     {
         //If the user presses the R key, call Rain(10);
+      
     }
 }

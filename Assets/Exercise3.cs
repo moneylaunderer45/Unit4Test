@@ -16,7 +16,7 @@ public class Exercise3 : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.S))
         {
             // Uncomment the line below after you write the method
-            //transform.position = RandomPosition();
+           
         }
     }
 
@@ -28,4 +28,6 @@ public class Exercise3 : MonoBehaviour
      * return randomPos
      * 
      * **************************************/
+
+   
 }

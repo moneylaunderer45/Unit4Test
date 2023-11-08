@@ -5665,7 +5665,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 796d354721275e2439f1536268266411, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rainDrop: {fileID: 0}
+  rainDrop: {fileID: 4980483737969032127, guid: 0579e66907582134991fa746ad77e6e3, type: 3}
   rainSpawn: {fileID: 824354032}
 --- !u!1 &2128287262
 GameObject:
