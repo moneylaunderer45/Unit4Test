@@ -20,7 +20,13 @@ public class Exercise2 : MonoBehaviour
  
     void Update()
     {
-        //If the user presses the R key, call Rain(10);
-      
+     //If the user presses the R key, call Rain(10);
+     if(Input.GetKeyDown(KeyCode.R))
+     {
+      for(int i = 0; i < 10; i++)
+      {
+       int rainDrop = 10; 
+      }
+     }
     }
 }
